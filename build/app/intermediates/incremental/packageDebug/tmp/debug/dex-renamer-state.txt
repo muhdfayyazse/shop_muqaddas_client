@@ -1,0 +1,4 @@
+#Sat Jul 16 20:48:20 GST 2022
+base.0=/home/muhdfayyaz/development/mobile/projects/shop_muqaddas_client/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
